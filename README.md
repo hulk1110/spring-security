@@ -8,7 +8,7 @@ Why Spring Security?
 6.Method level Security.
 
 
-1.Authentication(How are you) :--> Userid password verification (Knowledge based authentication).
+1.Authentication(who are you) :--> Userid password verification (Knowledge based authentication).
 Advantage:Easy to implement and use
 Disadvantage:- Not so safe what if someone steal/find out password.
 
