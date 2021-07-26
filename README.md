@@ -17,7 +17,7 @@ Phone/text message
 key cards and bagdes
 access token device
 
-We can have combination of botg Knowledge as well as possession based authentication. This is also known as Multi Factor Authentication.
+We can have combination of both Knowledge as well as possession based authentication. This is also known as Multi Factor Authentication.
 
 
 2.Authorization(can user do this?):
